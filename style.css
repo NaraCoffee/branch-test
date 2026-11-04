@@ -1,7 +1,7 @@
 h1{
     color: saddlebrown;
 }
-border {
-    border: 2px solid blue;}
-    padding : 10px;
+.border {
+    border: 2px solid blue;
+    padding: 10px;
 }
